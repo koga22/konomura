@@ -1,0 +1,3 @@
+:HL["/konomura/_next/static/chunks/17b5056414d7d29d.css","style"]
+:HL["/konomura/_next/static/chunks/6f7a15f19b322f63.css","style"]
+0:{"buildId":"e5PERRU4sUiVVy7XgqWOq","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
